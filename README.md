@@ -1,10 +1,4 @@
-# INFO 6105 Final Project: Breast Cancer Diagnosis Analysis using R
-
-**Author**: Geetika Barla  
-**Course**: INFO 6105 – Data Science Programming Methods  
-**University**: Northeastern University  
-
----
+ Breast Cancer Diagnosis Analysis using R
 
 ## 🧠 Project Overview
 
