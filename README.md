@@ -91,7 +91,6 @@ The analysis was done using R and focuses on:
 ## 🔗 Resources
 
 - [Dataset on UCI](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
-- [R caret package](https://topepo.github.io/caret/)
 - [Video Walkthrough](https://northeastern-my.sharepoint.com/personal/barla_g_northeastern_edu/_layouts/15/stream.aspx?id=/personal/barla_g_northeastern_edu/Documents/DSMFinalProject.mp4&referrer=StreamWebApp.Web)
 
 ---
